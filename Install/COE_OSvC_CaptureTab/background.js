@@ -1,3 +1,9 @@
+//--------------------------------
+// Oracle COE - Cross CX
+// jose.antonio.juarez@oracle.com
+// Malaga // Spain // 2022
+//--------------------------------
+
 var buiUrl = 'https://example.custhelp.com/AgentWeb/';
 
 
